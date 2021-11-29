@@ -1,4 +1,4 @@
-def fibb(n):
+def fibb(n: int) -> int:
     """Fibbonacci Number
 
     Args:
@@ -21,4 +21,4 @@ def fibb(n):
 
 
 if __name__ == "__main__":
-    print(fibb(9))
+    print(fibb(9.0))
