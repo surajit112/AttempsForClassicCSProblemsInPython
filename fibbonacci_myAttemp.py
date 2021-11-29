@@ -21,4 +21,4 @@ def fibb(n: int) -> int:
 
 
 if __name__ == "__main__":
-    print(fibb(9.0))
+    print(fibb(9))
